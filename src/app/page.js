@@ -143,7 +143,7 @@ export default function Home() {
           {status === "success" ? (
             <span>You connected your app successfully.</span>
           ) : status === "error" || status === "idle" ? (
-            <span>Send a ping to verify the connection</span>
+            <span>Send a ping-pong to verify the connection</span>
           ) : null}
         </p>
 
