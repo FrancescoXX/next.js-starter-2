@@ -135,7 +135,7 @@ export default function Home() {
           </h1>
         ) : (
           <h1 className="font-[Poppins] text-2xl font-light text-[#2D2D31]">
-            Check connection
+            Francesco - Check connection
           </h1>
         )}
 
